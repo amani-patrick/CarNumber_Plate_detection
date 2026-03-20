@@ -30,8 +30,8 @@ Camera → Detection → Alignment → OCR → Validation → Temporal Confirmat
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/anpr-project.git
-   cd anpr-project
+   git clone https://github.com/amani-patrick/CarNumber_Plate_detection
+   cd CarNumber_Plate_detection
    ```
 
 2. **Create and activate virtual environment**
